@@ -1,10 +1,10 @@
 #**Sentiment Analysis using NLP**
 
-📌** Project Overview**
+**📌 Project Overview**
 
 This project is a Sentiment Analysis system using Natural Language Processing (NLP). It analyzes textual data (such as tweets or reviews) to determine the sentiment as positive, negative, or neutral. This can be useful for social media monitoring, customer feedback analysis, and market research.
 
-🔧** Features**
+**🔧 Features**
 
 - Analyzes sentiment from textual data
 
@@ -26,7 +26,7 @@ This project is a Sentiment Analysis system using Natural Language Processing (N
 
 - Flask (if deploying as a web app, optional)
 
-🚀 Installation
+**🚀 Installation**
 
 To get started, follow these steps:
 
